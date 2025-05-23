@@ -1,0 +1,62 @@
+CHEKSUMS for files from /users/pchordia/bhatkhande/3
+at https://kern.humdrum.org
+downloaded on Thu May 22 11:23:25 PDT 2025
+A current version of these files may be downloaded using the address:
+	https://kern.humdrum.org/data?f=zip&l=/users/pchordia/bhatkhande/3
+==================================================================
+
+The following lines list the checksum values for all score
+files in this downloaded zip archive.
+
+A "checksum" value is an error-checking mechanism that may
+assist in determining whether a file has been modified or data
+garbled due to transmission or faulty storage.  The "checksum A"
+value uses the POSIX 2 checksum algorithm.  The "checksum B" value
+uses the CCITT cyclic redundancy check algorithm.
+
+Note that checksum commands will differ for ASCII files formatted
+in DOS/Windows style or Unix/Macintosh formatted text.  The files in
+this ZIP archive were in Unix/Macintosh line formatting style when the
+checksums were compiled.
+
+checksum A   checksum B    filename
+===================================================================
+
+1699206417 655 bhatk3185a.krn
+137438127 652 bhatk3185s.krn
+2567792756 413 bhatk3186a.krn
+2481466139 555 bhatk3186s.krn
+1092589916 715 bhatk3187a.krn
+583882988 421 bhatk3187s.krn
+3975868741 535 bhatk3188a.krn
+3370970345 550 bhatk3188s.krn
+1971743681 723 bhatk3189a.krn
+4068692847 697 bhatk3189s.krn
+3159436893 549 bhatk3191a.krn
+334958381 536 bhatk3191s.krn
+3307526813 686 bhatk3192a1.krn
+1200257698 670 bhatk3192a2.krn
+4194841895 530 bhatk3192s.krn
+60781261 839 bhatk3194a.krn
+728575515 562 bhatk3194s.krn
+432280091 461 bhatk3195a.krn
+2227647524 267 bhatk3195s.krn
+2140450046 734 bhatk3196a.krn
+3618099372 607 bhatk3196s.krn
+51836552 420 bhatk3197a.krn
+3315479168 415 bhatk3197s.krn
+2191045676 654 bhatk3198a.krn
+191095051 676 bhatk3198s.krn
+3842282118 582 bhatk3199a1.krn
+3802410603 600 bhatk3199a2.krn
+2109037100 530 bhatk3199s.krn
+2159759303 349 bhatk3201a.krn
+102372101 641 bhatk3201s.krn
+3623452573 751 bhatk3202a.krn
+3093232505 628 bhatk3202s.krn
+2279285529 554 bhatk3203a.krn
+3331494227 523 bhatk3203s.krn
+2285666244 453 bhatk3204a.krn
+2118643394 600 bhatk3204s.krn
+2467198319 850 bhatk3205a.krn
+2208462255 697 bhatk3205s.krn
